@@ -45,7 +45,7 @@ nav a:link{
 
  #anasayfa{
     height: 600px;
-    background-image: url("../img/bg/masthead.jpg");
+    background-image: url("../img/bg/masthead.webp");
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -209,7 +209,7 @@ h3{
 }
 /* iletişim */
 #iletisim{
-    background: url(../img/bg/iletişim.jpg);
+    background: url(../img/bg/iletisim.webp);
     background-size: cover;
     padding: 50px;
     height: auto;

@@ -20,6 +20,9 @@
     <link rel="stylesheet" href="owl/owl.carousel.min.css">
     <link rel="stylesheet" href="owl/owl.theme.default.min.css">
 
+    <!-- google search console seo -->
+    <meta name="google-site-verification" content="ftb0MMR76rCGK1JeIiKflieHAzEE863Yks6oNGTBv1A" />
+
 </head>
 <body>
 
@@ -42,17 +45,16 @@
         </div>
 
         <div class="içerik">
-            <h2 class="onemli">Berk Altun</h2>
+            <h1 class="onemli">Berk Altun</h1>
             <hr width="300" align="left">
             <p>Misyonum <span class="onemli">EN İYİ</span> tasarımları yapmak</p>
             <p id="altyazı">"Markanızı oluşturacak ve işinizi büyütmeye yardımcı olacak, kaliteli ve özel tasarımlar yaparım"</p>
         </div>
     </section>
-
     <!--hakkımızda-->
 
     <section id="hakkımızda">
-        <h3 class="onemli">Hakkımda</h3>
+        <h2 class="onemli">Hakkımda</h2>
         <div class="container">
             <div id="sol">
                 <h5 id="h5sol">
@@ -63,46 +65,46 @@
                 <p id="psag">Freelence olarak çalışıp yüzmeye başladığım <span class="onemli">Grafik Tasarım</span> denizinde mutlulukla ve başarıyla ilerliyorum. Eğitiminden sorumlu olduğum yaklaşık 50 tasarımcı adayı arkadaşımın desteğiyle de kendimi daha güçlü hissediyorum. </p>
             </div>
 
-            <img src="img/bg/hakkımızda2.jpg" alt="" class="img-fluid mt30">
+            <img src="img/bg/hakkimizda.webp" alt="" class="img-fluid mt30">
         </div>
     </section>
 
     <section id="portfolio">
         <div class="container">
-            <h3 class="onemli">PORTFÖYÜM</h3>
+            <h2 class="onemli">PORTFÖYÜM</h2>
             <div class="owl-carousel owl-theme">
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/Hyperloop.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/Hyperloop.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Logo Tasarımı</h5>
                     <p class="cardp">Ege Hyperloop takımı için yaptığım logo tasarımı.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/bionluk_Çalışma Yüzeyi 1.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/cargo.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Logo Tasarımı</h5>
                     <p class="cardp">İtalyan yemekleri yapan Cargo isimli şikret için yaptığım logo tasarımı.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/hoodie.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/hoodie.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Giysi Tasarımı</h5>
                     <p class="cardp">Özel tasarım hooide tasarımım.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/Set_of_black_hoodie_front_and_back_mockup.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/ozdemiroglu.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Giysi Tasarımı</h5>
                     <p class="cardp">Özdemiroğlu Vinç için yaptığım kurumsal giysi tasarımı.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/search_Çalışma Yüzeyi 1.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/foderpost.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Post Tasarımı</h5>
                     <p class="cardp">Türkiye Finansal Okuryazalarlık Derneği için yaptığım sosyal medya tasarımı.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/1_Çalışma Yüzeyi 1.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/deprem.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Post Tasarımı</h5>
                     <p class="cardp">Afetzedeleri bilgilendirmek için yaptığım sosyal medya tasarımı.</p>
                 </div>
                 <div class="card item" data-merge=1.5>
-                    <img src="img/portfolio/uludağ.jpg" alt="" class="img-fluid">
+                    <img src="img/portfolio/uludag.webp" alt="" class="img-fluid">
                     <h5 class="baslıkcard">Patch Tasarımı</h5>
                     <p class="cardp">Uludağ Üniversitesi Labaratuvarlarından birisi için yaptığım arma ve patch tasarımı.</p>
                 </div>
@@ -116,21 +118,21 @@
     <section id="deneyim">
         <div class="container">
             <div id="ortalama">
-                <h3 id="deneyimh3">Deneyim</h3>
+                <h2 id="deneyimh3">Deneyim</h2>
                 <div class="sutun-sol-sag">
-                    <a href="https://www.fo-der.org/" target="_blank"><img src="img/foder.png" alt="" class="img-fluid oval"></a>
-                    <h4 class="deneyimisim">Foder</h4>
+                    <a href="https://www.fo-der.org/" target="_blank"><img src="img/foder.webp" alt="" class="img-fluid oval"></a>
+                    <h3 class="deneyimisim">Foder</h3>
                     <p class="deneyimp">Türkiye Finansal Okuryazarlık Derneği (FODER)'de sosyal medya gönüllüsü olarak çalışıyorum ve sosyal medya ile ilgili içerik fikirleri üretmek, grafik tasarlamak ve benzer görevleri yerine getirmek gibi görevlerim var.</p>
                 </div>
                 <div class="sutun">
-                    <a href="https://www.egesavtek.com/" target="_blank"><img src="img/savtek.png" alt="" class="img-fluid oval"></a>
-                    <h4 class="deneyimisim">Ege SAVTEK</h4>
+                    <a href="https://www.egesavtek.com/" target="_blank"><img src="img/savtek.webp" alt="" class="img-fluid oval"></a>
+                    <h3 class="deneyimisim">Ege SAVTEK</h3>
                     <p class="deneyimp">"Grafik Tasarım Koordinatörü" olarak, topluluk için tüm tasarım işlerini denetledim ve gerekli olduğunda doğrudan tasarımlar oluşturdum. Ayrıca, koordinatörlük ekibindeki yaklaşık 50 üyenin eğitiminden de sorumluydum.</p>
                 </div>
                 <div class="sutun-sol-sag">
-                    <a href="https://www.youtube.com/@berkaltun4814" target="_blank"><img src="img/youtube.png" alt="" class="img-fluid oval"></a>
-                    <h4 class="deneyimisim">YouTube</h4>
-                    <p class="deneyimp">Son zamanlarda, YouTube SEO, video düzenleme ve YouTube'a uygun tasarımlar oluşturma becerilerimi geliştirdim. Bu sayede, platformda içerik üretmeye başladım ve bu da platformdaki hakimiyetimi artırdı.</p>
+                    <a href="https://softinyo.com/" target="_blank"><img src="img/softinyo.webp" alt="" class="img-fluid oval"></a>
+                    <h3 class="deneyimisim">Softinyo</h3>
+                    <p class="deneyimp">Softinyo adlı yazılım ve bilişim şirketinde SEO, Web tasarımı ve daha fazla konuda görev aldığım bir staj dönemi geçirdim.</p>
                 </div>
             </div> 
         </div>
@@ -139,7 +141,7 @@
     <!--İletişim-->
     <section id="iletisim">
         <div class="container">
-            <h3 id="h3iletisim">İletişim</h3>
+            <h2 id="h3iletisim">İletişim</h2>
 
             <div id="iletisimopak">
                 <div id="formgrup">
